@@ -78,4 +78,5 @@ your name:" и ждать от пользователя ввода имени (�
 N), а в качестве второго N. Если же наоборот, M меньше N, то запускаем
 функцию gcd с первым аргументом M, а вторым (N-M).
 
-<a href="https://wampi.ru/image/RQsmuqV"><img src="https://ie.wampi.ru/2022/09/06/5f6beab05b5a1ea5a.jpg" alt="5f6beab05b5a1ea5a" border="0"></a>
+<a href="https://wampi.ru/image/RQsmuqV"><img src="https://ie.wampi.ru/2022/09/06/5f6beab05b5a1ea5a.jpg" alt="5" border="0"></a>
+
