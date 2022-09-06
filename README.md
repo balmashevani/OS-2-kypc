@@ -17,6 +17,7 @@ Arguments are: $1=one $2=two
 Arguments are: $1=three $2=four
 
 
+<a href="https://wampi.ru/image/RQsmQNq"><img src="https://im.wampi.ru/2022/09/06/287fd336c5c72be46.jpg" alt="2" border="0"></a>
 
 
 ## Задание 3 
@@ -26,11 +27,7 @@ Arguments are: $1=three $2=four
 числа нужно вывести разные сообщения.
 
 
-## Решение:
-<a href="https://ibb.co/cNqzQD3"><img src="https://i.ibb.co/sF7LqyR/2022-09-06-09-32-47.png" alt="2022-09-06-09-32-47" border="0"></a>
-## Вывод: 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/j6ZZ6bD/2022-09-06-09-33-21.png" alt="2022-09-06-09-33-21" border="0"></a>
-
+<a href="https://wampi.ru/image/RQsmN8l"><img src="https://ie.wampi.ru/2022/09/06/3c692b4e5d952b3f6.jpg" alt="3" border="0"></a>
 
 
 ## Задание 4 
@@ -52,11 +49,9 @@ your name:" и ждать от пользователя ввода имени (�
 начинается по новой. Если в какой-то момент работы скрипта будет введено
 пустое имя или возраст 0, то скрипт должен написать на экран "bye" и
 закончить свою работу.
-## Решение: 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/GWswZLv/2022-09-06-09-35-19.png" alt="2022-09-06-09-35-19" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-## Вывоl^
-<a href="https://ibb.co/d2HY6W6"><img src="https://i.ibb.co/T8N3RvR/2022-09-06-09-37-54.png" alt="2022-09-06-09-37-54" border="0"></a>
 
+
+<a href="https://wampi.ru/image/RQsmZLa"><img src="https://im.wampi.ru/2022/09/06/4ab74265d2dccd933.jpg" alt="4" border="0"></a>
 
 
 ## Задание 5 
